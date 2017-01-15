@@ -7,5 +7,6 @@ namespace SampleApp.Test
 {
     public class TestForCommitSync
     {
+        public int a = 0;
     }
 }
